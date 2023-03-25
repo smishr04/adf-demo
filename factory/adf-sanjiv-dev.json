@@ -1,0 +1,9 @@
+{
+	"name": "adf-sanjiv-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2156f14d-8c53-4df7-9c55-29cdebdcef72",
+		"tenantId": "9cb0e7a5-236b-417e-ba34-3b4994b3efe1"
+	}
+}
